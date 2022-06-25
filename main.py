@@ -1,10 +1,10 @@
 # ROCK PAPER SCISSORS
 
-name="Rock paper Scissors"
+name = "Rock paper Scissors"
 
 
 def run_game():
-    print(name)
+   print('Test Area')
 
 
 run_game()
